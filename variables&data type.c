@@ -2,7 +2,7 @@
  Name:George maina ngugi
  RegNo:CT100/G/26171/25
  Description:Caculating SurfaceArea & Volume
- 
+ */
 #include <stdio.h>
 #define PI 3.142
 int main(){
